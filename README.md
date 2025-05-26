@@ -1,4 +1,8 @@
 # Sistema Acadêmico - FCTE
+Atenção, professor:
+Não consegui colocar os códigos no mesmo repositório, então estão em um repositório chamado "SistemaAcademicoFCTE".
+
+Peço desculpas por isso e agradeço a compreensão!
 
 ## Descrição do Projeto
 
