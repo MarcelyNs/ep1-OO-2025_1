@@ -1,8 +1,5 @@
 # Sistema Acadêmico - FCTE
-Atenção, professor:
-Não consegui colocar os códigos no mesmo repositório, então estão em um repositório chamado "SistemaAcademicoFCTE".
-
-Peço desculpas por isso e agradeço a compreensão!
+Professor os arquivos estão no Branches master!
 
 ## Descrição do Projeto
 
@@ -124,5 +121,5 @@ Explicação dos comandos cd:
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+mf1120846@gmail.com
 
