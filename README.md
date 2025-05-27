@@ -66,11 +66,17 @@ Explicação dos comandos cd:
    
 
 4. **Estrutura de Pastas:**  
-   /app          -> Contém a classe principal Main.java
+
+    /app          -> Contém a classe principal Main.java
+
    /alunos       -> Classes relacionadas aos alunos (Aluno, AlunoEspecial,  etc.)
+
    /disciplina   -> Classes de disciplinas e turmas
+
    /avaliacao    -> Classes para lançamento de notas e frequência
+
    /util         -> Classes utilitárias (EntradaUsuario, Listas, Verificação, etc.)
+
    /dados        -> Arquivos de persistência (alunos.txt, turmasDisciplinas.txt)
 
 3. **Versão do JAVA utilizada:**  
@@ -87,15 +93,18 @@ Explicação dos comandos cd:
 ## Prints da Execução
 
 1. Menu Principal:  
- ![image](https://github.com/user-attachments/assets/f176b809-41fa-4969-9196-14850aa5b80d)
+![image](https://github.com/user-attachments/assets/48274b84-3933-43e4-a3c7-ec121e2a34a4)
+
 
 
 
 2. Cadastro de Aluno:  
-   ![Inserir Print 2](caminho/do/print2.png)
+ ![image](https://github.com/user-attachments/assets/5b2f6f2b-20a6-4cd6-8952-5c38aa882e03)
+
 
 3. Relatório de Frequência/Notas:  
-   ![Inserir Print 3](caminho/do/print3.png)
+ ![image](https://github.com/user-attachments/assets/6df7702e-dfc3-4e3c-a916-1df8218a8609)
+
 
 ---
 
